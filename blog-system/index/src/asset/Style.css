@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.w-50{
+    width: 50%;
+}
+span{
+font-weight: 1000;
+font-size: 40px;
+padding: 10px;
+border-radius: 10px;
+margin: 20px;
+color: #f5eded;
+}
+
+input{
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(238, 229, 229);
+    padding: 10px;
+    border-radius: 10px;
+}
+.blog-inner {
+    background-color: var(--bg-color);
+    color: aliceblue;
+}
+
+.bolg-head {
+    color: white;
+    text-align: center;
+}
+
+/* .bolg-head h2 {
+    border: 1px solid var(--theme-color);
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 26px;
+    color: rgb(236, 233, 233);
+    margin-bottom: 20px;
+} */
+.bolg-head p {
+    display: block;
+
+}
+
+.blog-img1 {
+    padding: 20px;
+    background-color: rgb(49, 169, 159);
+    border: 2px solid rgb(236, 238, 238);
+}
+
+.blog-img1 h5 {
+    margin: 20px;
+    color: rgb(225, 228, 231);
+}
+
+.blog-img1 a {
+    color: rgb(225, 228, 231);
+    margin: 20px;
+    font-size: 20px;
+    /* display: block; */
+}
+
+.blog-img1 p {
+    margin: 20px;
+    color: rgb(225, 228, 231);
+}
+body{
+    background-color: rgba(4, 56, 67, 0.975);
+}
+.main-box{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+}
+button{
+    background-color: rgb(49, 169, 159);
+    border: 2px solid rgb(15, 14, 14);
+    margin: 5px;
+border-radius: 10px;
+    color: rgb(243, 232, 232);
+    padding: 10px 20px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    z-index: 9;
+    text-align: center;
+}
+button:hover{
+    background-color: rgba(4, 56, 67, 0.975);
+}
+   

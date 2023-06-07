@@ -1,0 +1,76 @@
+{
+    "blog": [
+        {
+            "id": 1, 
+            "images":"f-1.webp",
+            "category": "Food",
+            "title": "Britannia announces highest dividend payout in 3 years at Rs 72/share", 
+            "des": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, entertainment, and sport, as well as quirky or unusual events. Government",
+            "s_des": "proclamations, concerning royal ceremonies, laws, taxes, public health, and criminals, have been dubbed news since ancient times. Technological and social developments, often driven by government"
+        },
+        {
+            "id": 2, 
+            "images":"f-2.jpg",
+            "category": "Food",
+            "title": "Britannia announces highest dividend payout in 3 years at Rs 72/share", 
+            "des": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, entertainment, and sport, as well as quirky or unusual events. Government",
+            "s_des": "proclamations, concerning royal ceremonies, laws, taxes, public health, and criminals, have been dubbed news since ancient times. Technological and social developments, often driven by government"
+        },
+        {
+            "id": 3, 
+            "images":"f-3.jpg",
+            "category": "Food",
+            "title": "Britannia announces highest dividend payout in 3 years at Rs 72/share", 
+            "des": "Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, entertainment, and sport, as well as quirky or unusual events. Government",
+            "s_des": "proclamations, concerning royal ceremonies, laws, taxes, public health, and criminals, have been dubbed news since ancient times. Technological and social developments, often driven by government"
+        },
+        {
+            "id": 4, 
+            "images":"s-1.webp",
+            "category": "Sports",
+            "title": "We are the champions", 
+            "des": "'Sport' means all forms of physical activity which, through casual or organised participation, aim at expressing or improving",
+            "s_des": "physical fitness and mental wellbeing, forming social relationships or obtaining results in competition at all levels."
+        },
+        {
+            "id": 5, 
+            "images":"s-2.webp",
+            "category": "Sports",
+            "title": "We are the champions", 
+            "des": "'Sport' means all forms of physical activity which, through casual or organised participation, aim at expressing or improving",
+            "s_des": "physical fitness and mental wellbeing, forming social relationships or obtaining results in competition at all levels."
+        },
+        {
+            "id": 6, 
+            "images":"s-3.jpg",
+            "category": "Sports",
+            "title": "We are the champions", 
+            "des": "'Sport' means all forms of physical activity which, through casual or organised participation, aim at expressing or improving",
+            "s_des": "physical fitness and mental wellbeing, forming social relationships or obtaining results in competition at all levels."
+        },
+        {
+            "id": 7, 
+            "images":"1.jpg",
+            "category": "Technology",
+            "title": "DON’T choose a subject that is way too broad.", 
+            "des": "This is a mistake made by many students that leads them to lose marks for content. When you write on a general ",
+            "s_des": "subject, such as “modern technology” or “computer history”, it can be hard to demonstrate the required depth and analysis."
+        },
+        {
+            "id": 8, 
+            "images":"2.webp",
+            "category": "Technology",
+            "title": "DON’T choose a subject that is way too broad.", 
+            "des": "This is a mistake made by many students that leads them to lose marks for content. When you write on a general ",
+            "s_des": "subject, such as “modern technology” or “computer history”, it can be hard to demonstrate the required depth and analysis."
+        },
+        {
+            "id": 9, 
+            "images":"3.jpg",
+            "category": "Technology",
+            "title": "DON’T choose a subject that is way too broad.", 
+            "des": "This is a mistake made by many students that leads them to lose marks for content. When you write on a general ",
+            "s_des": "subject, such as “modern technology” or “computer history”, it can be hard to demonstrate the required depth and analysis."
+        }
+    ]
+}
